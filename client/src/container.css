@@ -1,0 +1,59 @@
+.videobox{
+    margin: 10px;
+    margin-bottom: 50px;
+    background-color: white;
+    
+}
+.container{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;  
+    background-color: beige;  
+    margin-top: 30px;
+}
+.like-box{
+    display: flex;
+    flex-wrap: wrap;    
+    justify-content: space-between;
+    padding-bottom: 5px;
+    background-color: bisque;
+}
+.title-style{
+    width: auto;
+    inline-size: 230px;
+    overflow-wrap: break-word;
+    padding-left: 10px;
+    height: 50px;
+}
+.button-like{
+    margin-right: 5px;
+}
+.button-dislike{
+    margin-left: 5px;
+}
+.dislike-button-box{
+    padding-right: 1px;
+}
+.greenlike{
+    font-size: x-large;
+    color: rgb(62, 99, 6);
+}
+.redlike{
+    font-size: x-large;
+    color:deeppink;
+}
+.delete-button-box{
+    background-color: bisque;
+    display: flex;
+    flex-wrap: wrap;    
+    justify-content: center;    
+    margin-bottom: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.delete-button{
+    background-color: rgb(246, 115, 115);
+}
