@@ -57,3 +57,24 @@
 .delete-button{
     background-color: rgb(246, 115, 115);
 }
+.addform{
+    border: 1px solid;
+    
+    width: 270px;
+    margin-top: 10px;
+    display: none;
+}
+
+.cancel-button{
+    margin: 5px;
+}
+.title-video{
+    display: flex;
+    justify-content: space-between;
+    width: 210px;
+    margin: 5px;
+}
+.sear-add-chbox{
+    margin-left: 50px;
+    margin-top: 10px;
+}
